@@ -17,7 +17,7 @@ public class tiposVariaveis {
         System.out.println(product1 + ", which price is $" + price1);
         System.out.printf(product2 + ", whitch price is $%.2f%n",price2);
 
-            System.out.println("Record: "+age+ "years old, code: "+ code+ " and gender: " + gender);
+        System.out.println("Record: "+age+ "years old, code: "+ code+ " and gender: " + gender);
 
         System.out.printf("Measue witch eight decimal places: %.8f%n", measure);
         System.out.printf("Rounded (three decimal places): %.3f%n", measure);
